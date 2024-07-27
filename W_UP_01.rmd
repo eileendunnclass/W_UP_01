@@ -1,7 +1,7 @@
 ---
 title: "W_UP_01"
-author: "your name here"
-date: "fall 2020"
+author: "Eileen Dunn"  
+date: "Summer 2024"  
 output: html_document
 ---
 
@@ -30,6 +30,14 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 # Methods
 
 <!--Decide on your methods: use "variable analysis" or other appropriate descriptors. Make sure to choose at least one graphical method and at least one numerical method.!-->
+
+position is a categorical variable,  
+pushups is a numerical variable,  
+
+We predict pushups based on position, viz.,   pushups ~ position  
+
+So we have numerical ~ categorical  
+load the num~cat helper file  
 
 # Results
 
